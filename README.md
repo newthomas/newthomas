@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=newthomas)
+[![Thomas Broemel profile views](https://u8views.com/api/v1/github/profiles/8363014/views/day-week-month-total-count.svg)](https://u8views.com/github/newthomas)
 
 <!--
 **newthomas/newthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
